@@ -1,6 +1,6 @@
 # character_card
 
-A new Flutter application.
+![Alt text](a.JPG)
 
 ## Getting Started
 
