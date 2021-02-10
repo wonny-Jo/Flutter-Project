@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter application.
+![Alt text](1.PNG)
 
 ## Getting Started
 
