@@ -1,5 +1,4 @@
 
-# getX 정리
 ## getx_tutorial
 
 ### getX 세팅
