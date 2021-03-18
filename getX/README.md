@@ -1,6 +1,6 @@
 
-# getx 정리
-## getx_tutorial
+# getX 정리
+## getX_tutorial
 
 ### getX 세팅
 1. https://pub.dev/packages/get/install 에서 get 버젼 복사후 pubspec.yaml에 적용
