@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\src\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\wonny\AndroidStudioProjects\getX\getx_route_manage"
+export "FLUTTER_ROOT=D:\study\flutter project\flutter_windows_2.0.1-stable\flutter"
+export "FLUTTER_APPLICATION_PATH=D:\study\flutter project\getx_route_manage"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build\ios"
